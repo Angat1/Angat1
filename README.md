@@ -48,7 +48,5 @@ A passionate Machine Learning Engineer from Kathmandu, Nepal, I specialize in NL
 Feel free to reach out for collaborations, opportunities, or coffee chats!
 - 📧 Email: [angatsitoula@gmail.com](mailto:angatsitoula@gmail.com)
 - 📞 Phone: [+9779862913143](tel:+9779862913143)
-
 ---
-
 ⭐️ From [Angat1](https://github.com/Angat1)
