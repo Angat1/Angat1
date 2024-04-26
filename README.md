@@ -32,7 +32,7 @@ A passionate Machine Learning Engineer from Kathmandu, Nepal, I specialize in NL
 
 ---
 
-## 📈 **GitHub Stats**
+## 📈 GitHub Stats
 ![Angat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angat1&show_icons=true&theme=radical)
 
 ---
