@@ -1,31 +1,34 @@
 # 👋 Hi, I'm Angat Sitoula
 
-Tech founder, AI engineer, and builder focused on reshaping finance, education, and intelligence in Nepal.
+Tech founder, AI engineer, and mission-driven builder transforming education, finance, and intelligence in Nepal.
 
 ---
 
 ### 🚀 What I'm Building
 
-- **[CognifyNow.ai](https://cognifynow.ai)** – AI-powered EdTech platform focused on cognitive intelligence over rote learning. Includes cognitive testing, adaptive learning, and post-SEE AI/coding courses.
+- **[CognifyNow.ai](https://cognifynow.ai)** – AI-powered EdTech platform focused on cognitive intelligence. Includes adaptive learning, mental ability testing, and AI/coding courses for post-SEE students.
 
-- **[SocrateAI.com](https://socrateai.com)** – Live AI, Data Science, and Finance courses, backed by curated open-source datasets for Nepali learners.
+- **[SocrateAI.com](https://socrateai.com)** – Live AI, Data Science & Finance education platform + curated open-source datasets to empower Nepali learners.
 
-- **[Nepalytix.com](https://nepalytix.com)** – Bloomberg-like FinTech platform for NEPSE. Offers open-source stock data, intelligent portfolio tracking, and AI-generated insights.
-
----
-
-### 🔬 Current Focus
-
-- Building a **small-scale LLM** from scratch (fits in ~10–15GB RAM) to understand foundation models deeply.
-- Publishing **open-source financial datasets** for public good – OHLC, index, floorsheet, etc.
+- **[Nepalytix.com](https://nepalytix.com)** – Bloomberg-style FinTech platform for NEPSE. Offers stock analytics, AI insights, open-source data (OHLC, index, floorsheet), and portfolio tracking.
 
 ---
 
-### 🧠 Vision
+### 🧠 Current Focus
 
-> Democratize intelligence through open systems.  
-> Build world-class tools for Nepal, by Nepal.
+- Building a **lightweight LLM** (~10–15GB RAM) from scratch to understand and replicate transformer architecture at a foundational level.
+- Scaling **open-source financial datasets** for NEPSE and beyond.
+- Enhancing cognitive diagnostics and AI adaptation inside **CognifyNow**.
+- Scaling **SocrateAI’s** reach through live instruction and Nepal-first curriculum.
 
 ---
 
-📫 angat@cognifynow.ai
+### 🌍 Vision
+
+> Build tools that are smarter than systems.  
+> Democratize access to intelligence, insight, and education for every Nepali — from the classroom to the stock market.  
+> Prove that world-class innovation is possible from Kathmandu, not just California.
+
+---
+
+📫 Reach me: angat@cognifynow.ai
